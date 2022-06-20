@@ -1,4 +1,5 @@
 build-essential
+ca-certificates
 asciidoc
 binutils
 bzip2
