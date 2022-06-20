@@ -37,8 +37,9 @@ device-tree-compiler
 g++-multilib
 antlr3
 gperf
+
+tar
 wget
 curl
-swig
+nginx
 rsync
-ccache
